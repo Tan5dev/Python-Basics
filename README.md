@@ -4,7 +4,7 @@
 ![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Learning-orange?style=for-the-badge)
 
-A beginner-friendly repository covering Python fundamentals from variables to Object-Oriented Programming with examples and mini-projects.
+A beginner-friendly repository covering Python fundamentals from variables to Object-Oriented Programming (OOP) with examples and mini-projects.
 
 ## 📚 Topics Covered
 
@@ -31,9 +31,12 @@ A beginner-friendly repository covering Python fundamentals from variables to Ob
 - Password Generator
 - Number Guessing Game
 
-## 🎯 Who is this for?
+## 🎯 Who Is This For?
 
-Students, beginners, and anyone starting their Python journey.
+- Students
+- Beginners
+- Self-Learners
+- Anyone starting their Python journey
 
 ## 🛠 Requirements
 
@@ -42,10 +45,14 @@ Students, beginners, and anyone starting their Python journey.
 
 ## ⭐ Support
 
-If this repository helped you, consider giving it a star.
+If this repository helped you, consider giving it a ⭐ Star!
 
-##Author 
+## 👨‍💻 Author
 
-Tanmay Pathe
+**Tanmay Pathe**
+
+GitHub: **@Tan5dev**
+
+---
 
 Happy Coding! 🚀
